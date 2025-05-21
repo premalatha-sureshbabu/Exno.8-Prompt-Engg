@@ -156,27 +156,27 @@ Store audio files for each prompt.
 
 ### C. Observations and Insights
 
-General Observations:
+### General Observations:
 
-Generic prompts yield bland, repetitive loops.
+->Generic prompts yield bland, repetitive loops.
 
-Adding time of day, specific animals, and background noise enhances realism.
+->Adding time of day, specific animals, and background noise enhances realism.
 
-Key Factors Influencing Quality:
+### Key Factors Influencing Quality:
 
-Natural elements (wind, animals, water)
+->Natural elements (wind, animals, water)
 
-Timing and layering (fade-ins, echo, distant vs. near sounds)
+->Timing and layering (fade-ins, echo, distant vs. near sounds)
 
 ### D. Optimization Report
 
-Best Practices:
+### Best Practices:
 
-Be specific: Include location, time, sounds, and emotion.
+->Be specific: Include location, time, sounds, and emotion.
 
-Use constraints: Duration, intensity, and environmental layering.
+->Use constraints: Duration, intensity, and environmental layering.
 
-Combine inputs: Use short real audio with text prompts for accurate output.
+->Combine inputs: Use short real audio with text prompts for accurate output.
 
 # 2. Advanced Techniques
 ### A. Iterative Prompting
@@ -204,6 +204,7 @@ Step 2: "Add distant howling wolves to the background."
 Example:
 
 "Blend sounds of a tropical beach and nearby rainforest."
-
+# Gdrive link:
+https://drive.google.com/drive/folders/1jr9Tp76YERHE2mtfW2ekWtrQ-MFBSQrp?usp=sharing
 # RESULT:
 Thus, the experiment successfully explored various prompting techniques for generating nature soundscapes, proving that detailed, context-aware prompts significantly enhance the quality and realism of the generated audio. Iterative refinement and leveraging tool strengths led to immersive, high-quality results tailored to natural themes.
