@@ -54,7 +54,7 @@ Input snippet: "Continue this waterfall sound with forest ambiance and birdsong.
 
 AudioLM: Excellent for seamless environmental audio continuation.
 
-Jukebox: Works for expanding ambient styles.
+Suno: Works for expanding ambient styles.
 
 ### 3. Structured Prompts
 ### Description Type:
@@ -102,7 +102,7 @@ Refined: "Add soft owl hoots and rustling leaves to the forest ambiance."
 
 ### Tool Compatibility:
 
-Works with Jukebox, AudioLM, and MusicGen for progressive refinement.
+Works with Suno, AudioLM, and MusicGen for progressive refinement.
 
 # Optimization Strategies for Prompts
 ->Be Specific:
@@ -132,7 +132,7 @@ Evaluate and improve prompts after hearing the output.
 Use hybrid text + short real nature sounds to fine-tune the generation.
 
 # Conclusion
-Each AI model uniquely responds to prompts. Exploring structured, descriptive, and iterative prompts enhances control over the nature sound generation process. Jukebox, AudioLM, and MusicGen each bring strengths to nature-inspired audio, making them suitable for specific tasks like wildlife simulation, ambient creation, or environmental storytelling.
+Each AI model uniquely responds to prompts. Exploring structured, descriptive, and iterative prompts enhances control over the nature sound generation process. Suno, AudioLM, and MusicGen each bring strengths to nature-inspired audio, making them suitable for specific tasks like wildlife simulation, ambient creation, or environmental storytelling.
 
 # EXPECTED OUTPUT:
 # 1. Deliverables
